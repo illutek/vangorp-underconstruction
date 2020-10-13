@@ -1,0 +1,17 @@
+body {
+    color: black;
+    background-color: #CEBEAE;
+}
+
+.main {
+    width: 90vw;
+    margin: 30px auto;
+}
+
+.header {
+    padding-left: 50px;
+    background-image: url('logo.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 200px;
+}
